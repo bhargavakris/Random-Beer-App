@@ -1,0 +1,3 @@
+insert into random_beer (id, alcohol_percent, beer_name, brewery_location,description) values(101,4.1,'Guinness','Dublin','is an Irish dry stout');
+insert into random_beer (id, alcohol_percent, beer_name, brewery_location,description) values(102,5.4,'Blue Moon','Limerick','The grain bill for Blue Moon includes malted barley, white wheat');
+insert into random_beer (id, alcohol_percent, beer_name, brewery_location,description) values(103,4.6,'Corona','Cork','Corona Extra is lighter than traditional beers, with a crisp and refreshing taste');
